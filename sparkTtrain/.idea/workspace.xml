@@ -6,7 +6,52 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f147f971-5e6b-490e-b32b-3d8edf76bccd" name="Default Changelist" comment="" />
+    <list default="true" id="f147f971-5e6b-490e-b32b-3d8edf76bccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sparkTtrain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/HBaseTrain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/artifacts/spakTrainTest_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/dictionaries/Administrator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/spakTrainTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/log/LoggerGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaClientApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FileWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FlumePullWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FlumePushWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/ForeachRDDApp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaDirectWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaReceiverWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaStreamingApp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/NetworkWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/SqlNetWorkCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/StatefulWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/TransformApp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/test/java/LoggerGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/test/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +82,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\ideaMaven\maven_repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -55,14 +103,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XbLQRwj905KyfZdXRKYT5r6nsS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestMaven" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +122,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.15862069" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -169,6 +219,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -196,6 +258,7 @@
       <workItem from="1581991210127" duration="221000" />
       <workItem from="1582017095703" duration="1590000" />
       <workItem from="1582080576964" duration="30000" />
+      <workItem from="1591085532834" duration="159000" />
     </task>
     <servers />
   </component>
@@ -203,65 +266,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581759744754">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1591085659162">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581759744754" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581749349642">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591085659162" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1591085599140">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581749349642" />
-    <state x="413" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581311363161">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581311363161" />
-    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1581311432130">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581311432130" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1581991404762">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581991404762" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1581764010006">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581764010006" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1581764010006">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581764010006" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1581764010006">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581764010006" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1581764010006">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581764010006" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1581504843295">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581504843295" />
-    <state x="512" y="223" key="classpath-attribute-editor" timestamp="1581311422722">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="512" y="223" key="classpath-attribute-editor/0.0.1366.728@0.0.1366.728" timestamp="1581311422722" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582080600275">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582080600275" />
-    <state x="68" y="41" key="new project wizard" timestamp="1581748384992">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="68" y="41" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581748384992" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1581397580897">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581397580897" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581761948714">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581761948714" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591085599140" />
   </component>
 </project>
