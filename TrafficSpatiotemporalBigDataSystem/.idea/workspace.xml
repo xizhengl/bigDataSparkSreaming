@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TrafficSpatiotemporalBigDataSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c646f5f0-2541-4ee4-9caf-d8dc220519ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TrafficSpatiotemporalBigDataSystem" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ideaMaven\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XpgKOHrp5zFvexVeVzyHskAPdM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15862069" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaMaven\TrafficSpatiotemporalBigDataSystem\data" />
+      <recent name="E:\ideaMaven\TrafficSpatiotemporalBigDataSystem\src\main\resources" />
+      <recent name="E:\ideaMaven\TrafficSpatiotemporalBigDataSystem\src\main\scala\com\fengli\csv" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fengli.spark.data" />
+      <recent name="com.fengli.utils" />
+      <recent name="com.fengli.spark" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaMaven\TrafficSpatiotemporalBigDataSystem\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HBaseUtilsTest.deleteTablesTest">
+    <configuration name="DataLoad" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.fengli.spark.initial.DataLoad" />
+      <module name="TrafficSpatiotemporalBigDataSystem" />
+      <option name="PROGRAM_PARAMETERS" value="data/服创大赛-出行方式静态数据.csv data/服创大赛-基站经纬度数据.csv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.fengli.spark.initial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaDirectApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.fengli.spark.KafkaDirectApp" />
+      <module name="TrafficSpatiotemporalBigDataSystem" />
+      <option name="PROGRAM_PARAMETERS" value="hadoop001:9092 trafficSpatiotempora_topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.fengli.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HBaseUtilsTest.deleteTablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrafficSpatiotemporalBigDataSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HBaseUtilsTest" />
+      <option name="METHOD_NAME" value="deleteTablesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HBaseUtilsTest.getTableAllRowKeyAndValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrafficSpatiotemporalBigDataSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HBaseUtilsTest" />
+      <option name="METHOD_NAME" value="getTableAllRowKeyAndValueTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HBaseUtilsTest.truncateTablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrafficSpatiotemporalBigDataSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HBaseUtilsTest" />
+      <option name="METHOD_NAME" value="truncateTablesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.KafkaDirectApp" />
+      <item itemvalue="Application.DataLoad" />
+      <item itemvalue="JUnit.HBaseUtilsTest.getTableAllRowKeyAndValueTest" />
+      <item itemvalue="JUnit.HBaseUtilsTest.deleteTablesTest" />
+      <item itemvalue="JUnit.HBaseUtilsTest.truncateTablesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HBaseUtilsTest.deleteTablesTest" />
+        <item itemvalue="Application.DataLoad" />
+        <item itemvalue="JUnit.HBaseUtilsTest.truncateTablesTest" />
+        <item itemvalue="Application.KafkaDirectApp" />
+        <item itemvalue="JUnit.HBaseUtilsTest.getTableAllRowKeyAndValueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c646f5f0-2541-4ee4-9caf-d8dc220519ed" name="Default Changelist" comment="" />
+      <created>1581748385771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581748385771</updated>
+      <workItem from="1581748388753" duration="11255000" />
+      <workItem from="1581771710878" duration="439000" />
+      <workItem from="1581820864720" duration="2120000" />
+      <workItem from="1581851101003" duration="8536000" />
+      <workItem from="1581911359535" duration="26305000" />
+      <workItem from="1581996097688" duration="3580000" />
+      <workItem from="1582002127116" duration="22771000" />
+      <workItem from="1582082781013" duration="24179000" />
+      <workItem from="1582166452193" duration="32000" />
+      <workItem from="1582170598944" duration="1626000" />
+      <workItem from="1582177368128" duration="849000" />
+      <workItem from="1582178516781" duration="6616000" />
+      <workItem from="1582251274578" duration="2891000" />
+      <workItem from="1583049292795" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1581749544940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1581749544940" />
+    <state x="275" y="26" key="#Scala" timestamp="1582029575645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Scala/0.0.1366.728@0.0.1366.728" timestamp="1582029575645" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581937473515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581937473515" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582260323541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582260323541" />
+    <state x="434" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582000902469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582000902469" />
+    <state x="437" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581761513685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1581761513685" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582256992898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582256992898" />
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom" timestamp="1582260729530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582260729530" />
+    <state width="1323" height="201" key="GridCell.Tab.0.center" timestamp="1582260729530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582260729530" />
+    <state width="1323" height="201" key="GridCell.Tab.0.left" timestamp="1582260729530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582260729530" />
+    <state width="1323" height="201" key="GridCell.Tab.0.right" timestamp="1582260729530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582260729530" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581945987029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581945987029" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1581945987029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581945987029" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1581945987029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581945987029" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1581945987029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581945987029" />
+    <state x="176" y="0" key="SettingsEditor" timestamp="1582110245430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582110245430" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582251278328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582251278328" />
+    <state x="57" y="59" key="new project wizard" timestamp="1581826790583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581826790583" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582093893523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582093893523" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581942032568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581942032568" />
+  </component>
+</project>

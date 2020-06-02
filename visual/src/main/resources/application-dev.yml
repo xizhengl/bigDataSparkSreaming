@@ -1,0 +1,10 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /fengli
+hbase:
+  zookeeper:
+    quorum: hadoop001
+    rootdir: hdfs://hadoop001:8020/hbase
+    property:
+      clientPort: 2181
