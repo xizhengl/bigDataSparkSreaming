@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f147f971-5e6b-490e-b32b-3d8edf76bccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sparkTtrain.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -15,8 +14,30 @@
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/HBaseTrain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HBaseTrain/HBaseTrain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sparkTtrain.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HBaseTrain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/artifacts/TestMaven_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/TestMavenApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/dao/CourseClickCountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/domain/CourseClickCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/spark/web/HelloBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/spark/web/ImoocStatApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/utils/HBaseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/static/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/static/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/echars.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/artifacts/spakTrainTest_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/compiler.xml" beforeDir="false" />
@@ -51,6 +72,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/WebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/spark/web/HelloBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/utils/HBaseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/static/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/static/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/templates/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/templates/demo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +288,7 @@
       <workItem from="1581991210127" duration="221000" />
       <workItem from="1582017095703" duration="1590000" />
       <workItem from="1582080576964" duration="30000" />
-      <workItem from="1591085532834" duration="159000" />
+      <workItem from="1591085532834" duration="449000" />
     </task>
     <servers />
   </component>
