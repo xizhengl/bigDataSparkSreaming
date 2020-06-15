@@ -7,80 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f147f971-5e6b-490e-b32b-3d8edf76bccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/HBaseTrain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sparkTtrain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HBaseTrain/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/artifacts/TestMaven_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/TestMavenApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/dao/CourseClickCountDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/domain/CourseClickCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/spark/web/HelloBoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/spark/web/ImoocStatApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/java/com/fengli/utils/HBaseUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/static/js/echarts.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/static/js/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/bar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestMaven/src/main/resources/templates/echars.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/artifacts/spakTrainTest_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/dictionaries/Administrator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/spakTrainTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/log/LoggerGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaClientApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/java/com/fengli/spark/kafka/KafkaProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FileWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FlumePullWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/FlumePushWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/ForeachRDDApp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaDirectWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaReceiverWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/KafkaStreamingApp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/NetworkWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/SqlNetWorkCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/StatefulWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/main/scala/com/fengli/spark/TransformApp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/test/java/LoggerGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spakTrainTest/src/test/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/WebApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/spark/web/HelloBoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/java/com/fengli/utils/HBaseUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/static/js/echarts.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/static/js/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/templates/bar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/src/main/resources/templates/demo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +215,8 @@
       <workItem from="1581991210127" duration="221000" />
       <workItem from="1582017095703" duration="1590000" />
       <workItem from="1582080576964" duration="30000" />
-      <workItem from="1591085532834" duration="449000" />
+      <workItem from="1591085532834" duration="1815000" />
+      <workItem from="1591170556787" duration="7000" />
     </task>
     <servers />
   </component>
@@ -296,6 +224,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1591086144520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591086144520" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1591085659162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -304,5 +236,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591085599140" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1591170557910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591170557910" />
   </component>
 </project>
