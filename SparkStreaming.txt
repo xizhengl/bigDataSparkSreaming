@@ -1,4 +1,4 @@
-1）CentOS7 软件安装以及环境配置
+1）CentOS7 软件安装以及环境配置 
 1.1 使用普通用户（hadoop）进行解压并移动到指定文件目录下 sudo tar -zxvf *.tar.gz -C ../app
 
 2)shell bash 测试命令写入文件时候
